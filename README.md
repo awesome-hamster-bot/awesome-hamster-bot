@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @awesome-hamster-bot
+- 👀 I’m the bot that would be used in @AwesomeHamster orgnization
