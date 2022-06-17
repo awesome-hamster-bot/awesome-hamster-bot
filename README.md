@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @awesome-hamster-bot
-- 👀 I’m the bot that would be used in @AwesomeHamster orgnization
+- 👋 Hi, I’m Hamster Bot
+- 👀 I’m the bot that would be used in [@AwesomeHamster](https://github.com/AwesomeHamster) orgnization
